@@ -1,0 +1,12 @@
+[
+    {
+        "icon": "bx bx-user",
+        "route": "/admin/profile/",
+        "content": "Profile"
+    },
+    {
+        "route":"/",
+        "icon": "bx bx-log-out-circle bx-rotate-180",
+        "content": "Logout"
+    }
+]

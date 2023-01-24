@@ -1,0 +1,68 @@
+[
+    {
+        "user": "Agent",
+        "display_name": "Dashboard",
+        "route": "/user/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "user": "Controlleur",
+        "display_name": "Dashboard",
+        "route": "/user/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "user": "Approbateur",
+        "display_name": "Dashboard",
+        "route": "/user/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "user": "Agent",
+        "display_name": "Avions",
+        "route": "/user/avions",
+        "icon": "bx bxs-plane-alt"
+    },
+    {
+        "user": "Agent",
+        "display_name": "Vol",
+        "route": "/user/vols",
+        "icon": "bx bxs-plane-take-off"
+    },
+    {
+        "user": "Agent",
+        "display_name": "Trade",
+        "route": "/user/trade",
+        "icon": "bx bx-world"
+    },
+    {
+        "user": "Controlleur",
+        "display_name": "Factures",
+        "route": "/user/factures",
+        "icon": "bx bx-calculator"
+    },
+    {
+        "user": "Controlleurss",
+        "display_name": "Anomalies",
+        "route": "/user/anomalies",
+        "icon": "bx bx-error"
+    },
+    {
+        "user": "Controlleur",
+        "display_name": "Facture Controlé",
+        "route": "/user/controlefacture",
+        "icon": "bx bx-brain"
+    },
+    {
+        "user": "Approbateur",
+        "display_name": "Validation",
+        "route": "/user/validation",
+        "icon": "bx bxs-check-shield"
+    },
+    {
+        "user": "Approbateur",
+        "display_name": "Reclamation",
+        "route": "/user/reclamations",
+        "icon": "bx bx-angry"
+    }
+]
